@@ -1,4 +1,4 @@
-Voici les versions de micrologiciels 
+Voici un mirroir des versions de micrologiciels de http://kc9hi.dyndns.org/uv5r/programming/CHIRPrecovery/
 
 
 
