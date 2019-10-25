@@ -20,5 +20,3 @@ http://www.miklor.com/uv5r/UV5R-Firmware.php
 https://www.miklor.com/uv5r/UV5R-FWRelease.php
 
 
-http://kc9hi.dyndns.org/uv5r/programming/CHIRPrecovery/
-
